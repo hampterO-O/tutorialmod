@@ -1,0 +1,13 @@
+{
+  "item.tutorialmod.reinforcedbread": "ReinforcedBread",
+
+  "block.tutorialmod.reinforcedbread_block": "Block of ReinforcedBread",
+
+  "item.tutorialmod.metal_detector": "Metal Detector",
+
+  "item.tutorialmod.diamond_detector": "Diamond Detector",
+
+  "item.tutorialmod.debris_detector": "Debris Detector",
+
+  "creativetab.tutorial_tab": "Bread Tab"
+}

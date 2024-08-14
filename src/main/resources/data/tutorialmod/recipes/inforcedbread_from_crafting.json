@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "#": {
+      "item": "minecraft:bread"
+    }
+  },
+  "pattern": [
+
+    "R#N"
+
+  ],
+  "result": {
+    "count": 3,
+    "item": "tutorialmod:reinforcedbread"
+  },
+  "show_notification": true
+}
